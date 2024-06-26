@@ -1,0 +1,9 @@
+node_modules/
+
+cache/
+artifacts*
+flattened*
+coverage*
+
+# TODO remove when https://github.com/solidity-parser/parser/issues/96 is fixed
+contracts/**/events/*
